@@ -1,1 +1,1 @@
-BookBot is my first project!
+Terminal tool to examine .txt files!
